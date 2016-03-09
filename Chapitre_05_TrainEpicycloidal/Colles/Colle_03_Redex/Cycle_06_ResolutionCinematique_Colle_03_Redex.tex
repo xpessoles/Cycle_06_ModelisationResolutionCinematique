@@ -1,0 +1,122 @@
+\documentclass[10pt,fleqn]{article} % Default font size and left-justified equations
+\usepackage[%
+    pdftitle={CIN : Vérification des performances cinématiques des systèmes},
+    pdfauthor={Xavier Pessoles}]{hyperref}
+    
+\input{style/new_style}
+\input{style/macros_SII}
+
+\usepackage{multicol}
+\fichetrue
+%\fichefalse
+
+\proftrue
+%\proffalse
+
+\tdtrue
+%\tdfalse
+
+\courstrue
+\coursfalse
+
+\def\discipline{Sciences \\Industrielles de \\ l'Ingénieur}
+\def\xxtete{Sciences Industrielles de l'Ingénieur}
+
+\def\classe{PTSI}
+\def\xxnumpartie{Cycle 8}
+\def\xxpartie{Vérification des performances cinématiques des systèmes\\
+Analyser, Modéliser, Résoudre}
+
+\def\xxnumchapitre{Chapitre 5}
+\def\xxchapitre{Étude des trains épicycloïdaux}
+
+\def\xxtitreexo{Poulie Redex}
+\def\xxsourceexo{\hspace{.2cm} D'après ressources de Stéphane Genouël.}
+
+
+\def\xxposongletx{2}
+\def\xxposonglettext{1.45}
+\def\xxposonglety{20}
+\def\xxonglet{Cycle 6 -- Ch. 5}
+
+\def\xxactivite{Colle 3}
+\def\xxauteur{\textsl{Stéphane Genouël}}
+
+\def\xxcompetences{%
+\textsl{%
+\textbf{Savoirs et compétences :}\\
+\noindent \textbf{Analyser :} 
+\begin{itemize}[label=\ding{112},font=\color{ocre}] 
+\item \textit{A3 -- C6 :} transmetteurs de puissance.
+\end{itemize}
+\noindent \textbf{Modéliser :} \textit{proposer un modèle de connaissance du système.}
+}}
+
+\def\xxfigures{
+\includegraphics[width=.7\textwidth]{images/fig_00}
+}%figues de la page de garde
+
+\def\xxpied{%
+Cycle 6 -- Vérification des performances cinématiques \\
+Ch. 5 : Étude des trains épicycloïdaux -- \xxactivite%
+}
+
+
+\setcounter{secnumdepth}{5}
+%---------------------------------------------------------------------------
+
+
+\begin{document}
+%\chapterimage{png/Fond_Cin}
+\input{style/new_pagegarde}
+\vspace{7cm}
+\pagestyle{fancy}
+\thispagestyle{plain}
+
+
+\def\columnseprulecolor{\color{ocre}}
+\setlength{\columnseprule}{0.4pt} 
+
+%\begin{multicols}{2}
+
+\begin{obj}~\\
+Vérifier les performances d'un réducteur.
+\end{obj}
+
+Il existe 2 grandes familles de poulies Redex H ou SR, selon la forme de l’arbre central.
+
+%\begin{center}
+%\includegraphics[width=.95\textwidth]{images/fig_01}
+%\end{center}
+
+
+
+Le mouvement d’entrée est reçu par le boîtier tournant 5, entraîné par 5 courroies trapézoïdales 8, et guidé en rotation par rapport au bâti 18 à l’aide de deux roulements à billes 23 et 28. 
+Les flasques 16 permettent le montage des organes intérieurs. Ils sont munis de joints d’étanchéité 22 et 29. 
+Les trois axes 9, guidés en rotation par rapport au boîtier tournant 5 à l’aide de deux roulements à aiguilles 4 et 11, portent les trois satellites doubles 6-10.
+Les liaisons encastrements entre les axes 9 et les satellites 6 et 10 sont assurées (élastiquement) par de la matière plastique injectée entre les axes et les pignons préalablement dentelés (voir coupe A-A et B-B). 
+Les satellites 10 sont en prise avec le planétaire 24 (qui est en liaison encastrement avec le bâti 18 à l’aide d’un assemblage cannelé).
+Les satellites 6 sont en prise avec le planétaire 31 (qui est en liaison encastrement avec l’arbre de sortie 32 à l’aide d’un assemblage cannelé). Cet arbre de sortie 32 est guidé en rotation par rapport au bâti 18 à l’aide de deux roulements à aiguilles 19 et 21.
+
+
+
+\subparagraph{}
+\textit{Déterminer littéralement, en fonction des nombres de dents, la loi E/S du système (c'est-à-dire le rapport de transmission).}
+
+
+%
+%\begin{center}
+%\includegraphics[width=.8\textwidth]{images/fig_02}
+%\end{center}
+%
+%
+
+\begin{center}
+\includegraphics[width=.8\textwidth]{images/fig_04}
+\end{center}
+
+%\end{multicols}
+
+\end{document}
+
+
