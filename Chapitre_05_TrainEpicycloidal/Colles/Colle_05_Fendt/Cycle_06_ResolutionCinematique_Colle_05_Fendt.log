@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.7.16)  10 MAR 2016 19:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.7.16)  11 MAR 2016 00:11
 entering extended mode
 **Cycle_06_ResolutionCinematique_Colle_05_Fendt.tex
 (Cycle_06_ResolutionCinematique_Colle_05_Fendt.tex
@@ -2167,95 +2167,95 @@ Package mdframed Info: Not enough space on this page on input line 83.
 File: images/fendt_02.png Graphic file (type png)
 
 <use images/fendt_02.png>
-Package pdftex.def Info: images/fendt_02.png used on input line 87.
+Package pdftex.def Info: images/fendt_02.png used on input line 91.
 (pdftex.def)             Requested size: 236.84843pt x 260.09813pt.
 
 <images/fendt_03.png, id=9, 1257.69875pt x 260.975pt>
 File: images/fendt_03.png Graphic file (type png)
 
 <use images/fendt_03.png>
-Package pdftex.def Info: images/fendt_03.png used on input line 92.
+Package pdftex.def Info: images/fendt_03.png used on input line 96.
 (pdftex.def)             Requested size: 236.84843pt x 49.14374pt.
 LaTeX Font Info:    Font shape `T1/mdput/bx/n' in size <10> not available
-(Font)              Font shape `T1/mdput/b/n' tried instead on input line 97.
+(Font)              Font shape `T1/mdput/b/n' tried instead on input line 101.
 LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
-(Font)              scaled to size 9.19998pt on input line 97.
+(Font)              scaled to size 9.19998pt on input line 101.
 
 
 Package hyperref Warning: bookmark level for unknown exo defaults to 0.
 
 LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 100.
+(Font)              scaled to size 7.35999pt on input line 104.
 LaTeX Font Info:    Font shape `T1/mdput/m/sl' will be
-(Font)              scaled to size 7.35999pt on input line 100.
+(Font)              scaled to size 7.35999pt on input line 104.
 LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 100.
+(Font)              scaled to size 6.43999pt on input line 104.
 LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 100.
+(Font)              scaled to size 4.59999pt on input line 104.
 LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 9.19998pt on input line 100.
+(Font)              scaled to size 9.19998pt on input line 104.
 LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 6.43999pt on input line 100.
+(Font)              scaled to size 6.43999pt on input line 104.
 LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 4.59999pt on input line 100.
+(Font)              scaled to size 4.59999pt on input line 104.
 LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 100.
+(Font)              scaled to size 9.19998pt on input line 104.
 LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 100.
+(Font)              scaled to size 6.43999pt on input line 104.
 LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 100.
+(Font)              scaled to size 4.59999pt on input line 104.
 LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 100.
+(Font)              scaled to size 9.19998pt on input line 104.
 LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 100.
+(Font)              scaled to size 6.43999pt on input line 104.
 LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 100.
+(Font)              scaled to size 4.59999pt on input line 104.
 LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 100.
+(Font)              scaled to size 9.19998pt on input line 104.
 LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 100.
+(Font)              scaled to size 6.43999pt on input line 104.
 LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 100.
+(Font)              scaled to size 4.59999pt on input line 104.
 LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 100.
+(Font)              scaled to size 9.19998pt on input line 104.
 LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 100.
+(Font)              scaled to size 6.43999pt on input line 104.
 LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 100.
+(Font)              scaled to size 4.59999pt on input line 104.
 LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 100.
+(Font)              scaled to size 9.19998pt on input line 104.
 LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 100.
+(Font)              scaled to size 6.43999pt on input line 104.
 LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 100.
+(Font)              scaled to size 4.59999pt on input line 104.
 LaTeX Font Info:    Font shape `T1/mdput/bx/n' in size <8> not available
-(Font)              Font shape `T1/mdput/b/n' tried instead on input line 100.
+(Font)              Font shape `T1/mdput/b/n' tried instead on input line 104.
 LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
-(Font)              scaled to size 7.35999pt on input line 100.
+(Font)              scaled to size 7.35999pt on input line 104.
 [1
 
 {C:/Users/Xavier/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/f
 endt_01.png (PNG copy)> <./images/fendt_02.png> <./images/fendt_03.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
 
 (Cycle_06_ResolutionCinematique_Colle_05_Fendt.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 100.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 104.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package logreq Info: Writing requests to 'Cycle_06_ResolutionCinematique_Colle_
 05_Fendt.run.xml'.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
  ) 
 Here is how much of TeX's memory you used:
- 36670 strings out of 493675
- 667011 string characters out of 3143992
- 1240260 words of memory out of 3000000
+ 36676 strings out of 493675
+ 667069 string characters out of 3143992
+ 1242258 words of memory out of 3000000
  39370 multiletter control sequences out of 15000+200000
- 159385 words of font info for 143 fonts, out of 3000000 for 9000
+ 159765 words of font info for 148 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  57i,17n,77p,10458b,1916s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/texnansi.enc}{C:/Progra
@@ -2268,7 +2268,7 @@ MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/urw/avantgar/uagdo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 zapfding/uzdr.pfb>
 Output written on Cycle_06_ResolutionCinematique_Colle_05_Fendt.pdf (1 page, 11
-28416 bytes).
+30542 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
