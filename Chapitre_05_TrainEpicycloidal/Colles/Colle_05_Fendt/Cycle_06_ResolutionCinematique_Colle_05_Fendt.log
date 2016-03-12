@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.7.16)  11 MAR 2016 00:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.7.16)  12 MAR 2016 15:59
 entering extended mode
 **Cycle_06_ResolutionCinematique_Colle_05_Fendt.tex
 (Cycle_06_ResolutionCinematique_Colle_05_Fendt.tex
@@ -2184,93 +2184,111 @@ LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
 
 Package hyperref Warning: bookmark level for unknown exo defaults to 0.
 
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 102.
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 103.
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 4.59999pt on input line 103.
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 9.19998pt on input line 103.
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 6.43999pt on input line 103.
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 4.59999pt on input line 103.
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 103.
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 103.
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 4.59999pt on input line 103.
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 103.
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 103.
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 4.59999pt on input line 103.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 103.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 103.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 4.59999pt on input line 103.
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 103.
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 103.
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 4.59999pt on input line 103.
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 103.
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 103.
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 4.59999pt on input line 103.
 LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 104.
+(Font)              scaled to size 6.43999pt on input line 103.
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 4.59999pt on input line 103.
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+[]\T1/mdput/m/n/10 (+20) On a donc, $\OML/mdput/m/it/10 R[]!\OT1/mdput/m/n/10 (
++20) (3\OML/mdput/m/it/10 =\OT1/mdput/m/n/10 (+20) 0) + \OML/mdput/m/it/10 R[]!
+\OT1/mdput/m/n/10 (+20) (1\OML/mdput/m/it/10 =\OT1/mdput/m/n/10 (+20) 0) =$
+ []
+
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 124.
 LaTeX Font Info:    Font shape `T1/mdput/m/sl' will be
-(Font)              scaled to size 7.35999pt on input line 104.
-LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 104.
-LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 104.
-LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 9.19998pt on input line 104.
-LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 6.43999pt on input line 104.
-LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
-(Font)              scaled to size 4.59999pt on input line 104.
-LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 104.
-LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 104.
-LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 104.
-LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 104.
-LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 104.
-LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 104.
-LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 104.
-LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 104.
-LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 104.
-LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 104.
-LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 104.
-LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 104.
-LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 104.
-LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 104.
-LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 104.
+(Font)              scaled to size 7.35999pt on input line 124.
 LaTeX Font Info:    Font shape `T1/mdput/bx/n' in size <8> not available
-(Font)              Font shape `T1/mdput/b/n' tried instead on input line 104.
+(Font)              Font shape `T1/mdput/b/n' tried instead on input line 124.
 LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
-(Font)              scaled to size 7.35999pt on input line 104.
+(Font)              scaled to size 7.35999pt on input line 124.
 [1
 
 {C:/Users/Xavier/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/f
 endt_01.png (PNG copy)> <./images/fendt_02.png> <./images/fendt_03.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
 
 (Cycle_06_ResolutionCinematique_Colle_05_Fendt.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 104.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 124.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package logreq Info: Writing requests to 'Cycle_06_ResolutionCinematique_Colle_
 05_Fendt.run.xml'.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
  ) 
 Here is how much of TeX's memory you used:
- 36676 strings out of 493675
- 667069 string characters out of 3143992
- 1242258 words of memory out of 3000000
- 39370 multiletter control sequences out of 15000+200000
- 159765 words of font info for 148 fonts, out of 3000000 for 9000
+ 36710 strings out of 493675
+ 667455 string characters out of 3143992
+ 1251294 words of memory out of 3000000
+ 39377 multiletter control sequences out of 15000+200000
+ 178466 words of font info for 171 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  57i,17n,77p,10458b,1916s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/texnansi.enc}{C:/Progra
-m Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9
-/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/a
-dobe/utopia/putb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/pu
-tr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putr8a.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8a.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/urw/avantgar/uagdo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
-zapfding/uzdr.pfb>
+m Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Enseignement/Livre_Exo_V
+uibert/Installation/MATHDESIGN/texmf/fonts/type1/mathdesign/mdput/md-utr7t.pfb>
+<C:/Enseignement/Livre_Exo_Vuibert/Installation/MATHDESIGN/texmf/fonts/type1/ma
+thdesign/mdput/md-utr7y.pfb><C:/Enseignement/Livre_Exo_Vuibert/Installation/MAT
+HDESIGN/texmf/fonts/type1/mathdesign/mdput/md-utri7m.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/adobe/utopia/putb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/uto
+pia/putr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putr8a.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8a.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/urw/avantgar/uagdo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/urw/zapfding/uzdr.pfb>
 Output written on Cycle_06_ResolutionCinematique_Colle_05_Fendt.pdf (1 page, 11
-30542 bytes).
+44270 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 51236 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 7 named destinations out of 1000 (max. 500000)
+ 54308 words of extra memory for PDF output out of 61914 (max. 10000000)
 
