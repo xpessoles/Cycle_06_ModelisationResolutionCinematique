@@ -30,8 +30,8 @@ Analyser, Modéliser, Résoudre}
 \def\xxnumchapitre{Chapitre 5}
 \def\xxchapitre{Étude des trains épicycloïdaux}
 
-\def\xxtitreexo{Transmission à variation continue -- Vario Fendt.}
-\def\xxsourceexo{\hspace{.2cm} D'après concours CCP -- MP 2008.}
+\def\xxtitreexo{Control'X -- Axe numérique asservi}
+\def\xxsourceexo{\hspace{.2cm} D'après documentation F. Mazet.}
 
 
 \def\xxposongletx{2}
@@ -53,7 +53,7 @@ Analyser, Modéliser, Résoudre}
 }}
 
 \def\xxfigures{
-\includegraphics[width=.7\textwidth]{images/fendt_01}
+\includegraphics[width=.7\textwidth]{images/fig_01}
 }%figues de la page de garde
 
 \def\xxpied{%
@@ -79,25 +79,21 @@ Ch. 5 : Étude des trains épicycloïdaux -- \xxactivite%
 
 \begin{multicols}{2}
 
-\begin{obj} Établir les relations cinématiques dans une transmission mécanique de tracteur.
+\begin{obj} Établir la loi entrée-sortie du transmetteur de mouvement. 
 \end{obj}
 
 
-On s'intéresse à la chaîne de transmission de puissance d'un tracteur Fendt. Cette dernière est composée d'un moteur (et d'une pompe) hydraulique (Mh) ainsi que d'un moteur thermique MAN (Mm). 
+On s'intéresse à la chaîne de transmission de puissance du Control'X dont un modèle est donné dans la figure ci-dessous.
 
-Le moteur MAN a pour but de fournir de la puissance à la pompe hydraulique et au tracteur (récepteur R). On donne ci-dessous le schéma de la transmission. 
- 
-\begin{center}
-\includegraphics[width=\linewidth]{images/fendt_02}
-\end{center}
-
-Les rayons des pignons sont les suivants : $R_{12}=60$, $R_{1M}=33$, $R_{2}=30$, $R_{32}=120$, $R_{3P}=54$, $R_{M}=54$, $R'_{M}=48$, $R_{R}=42$, $R'_{R}=48$. 
-
-Une étude ultérieure a permis d'établir que $\dfrac{\omega(Ph/0)}{\omega(Mh/0)} = \dfrac{2y}{x}$ avec $x\in[0,71;1]$ et $y\in[0;1]$.
-%\begin{center}
-%\includegraphics[width=\linewidth]{images/fendt_03}
-%\end{center}
-
+On note : 
+\begin{itemize}
+\item \textbf{0:} le bâti auquel est encastré une couronne de rayon primitif $R_b$;
+\item \textbf{1:} le pignon de sortie du moteur de rayon primitif $R_m$;
+\item \textbf{2:} un des 3 satellites du réducteur épicycloïdal de rayon primitif $R_s$;
+\item \textbf{3:} le porte-satellite auquel est encastré une poulie de rayon $R_p$;
+\item \textbf{5:} le chariot de masse $M$ encastré à la courroie \textbf{4} considérée inextensible;
+\item \textbf{3:} le seconde poulie de rayon $R_p$;
+\end{itemize}
 La fréquence de rotation du moteur Man est de 1900 tr/min.
 \subparagraph{}
 \textit{Déterminer la relation entre $\omega(1/0)$, $\omega(3/0)$ et $\omega(4/0)$}
@@ -139,6 +135,11 @@ $\dfrac{\omega(Mh/0)}{\omega(Mm/0)}=-\dfrac{\left( R_{12}+R_{32}\right)R_{1M} R_
 \fi
 
 \end{multicols}
+
+ 
+\begin{center}
+\includegraphics[width=\linewidth]{images/fig_02}
+\end{center}
 
 \end{document}
 
